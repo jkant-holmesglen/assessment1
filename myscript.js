@@ -52,8 +52,8 @@ var students =
     },
     {
       "path": "10020000",
-      "lastName": "FName",
-      "firstName": "LName"
+      "lastName": "GRZECZNY JASIU",
+      "firstName": "Jan Kant"
     },
     {
       "path": "10030000",
